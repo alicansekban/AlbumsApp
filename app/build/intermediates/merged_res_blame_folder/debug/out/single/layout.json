@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_album.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/item_album.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dialog_progress.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/fragment_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_albums.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/fragment_albums.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_comment.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/item_comment.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_photo.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/item_photo.xml"
+    },
+    {
+        "merged": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_albums_detail.xml",
+        "source": "/Users/alican/AndroidStudioProjects/Android-MVVM-starter/work-app/app/src/main/res/layout/fragment_albums_detail.xml"
+    }
+]

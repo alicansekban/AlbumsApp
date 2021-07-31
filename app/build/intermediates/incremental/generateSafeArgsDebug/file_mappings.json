@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/album_graph.xml","javaFiles":["com.alican.workapp.ui.main.albums.AlbumsFragmentDirections","com.alican.workapp.ui.main.albums_detail.AlbumDetailFragmentArgs"]},{"navFile":"src/main/res/navigation/profile_graph.xml","javaFiles":[]}]
